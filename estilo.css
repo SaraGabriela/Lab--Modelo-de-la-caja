@@ -1,0 +1,16 @@
+.adentro{
+border:1px dashed black;
+padding:5px;
+background-color:white;
+width: 700px;
+height: 250px;
+margin:auto;
+}
+.afuera{
+background-color:#F7CB97;
+height: 350px;
+width:800px;
+margin:auto;
+padding-top:50px;
+border: 5px solid #981DEC;
+}
